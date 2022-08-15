@@ -23,3 +23,6 @@ This is a work in progress, the schedule may change at any time.
 ## Affiliates
 These are other CS clubs located in the Greater Vancouver area:
 - TODO
+
+## Contact Us
+If you would like to contact us, feel free to join the Discord Server, or shoot an email to `dev.vincent.qi@outlook.com` (TODO: Make official email)
