@@ -2,7 +2,7 @@
 *We are the official programming club at Sir Winston Churchill Secondary, located in Vancouver, British Columbia*
 
 ## About Us
-We are a nonprofit school organization, dedicated to providing CS education to our members.
+We are a nonprofit school organization, dedicated to providing a space for peers to explore programming with members of the community.
 
 Our two biggest activities during the year will be the Canadian Computing Competition (Feb) and the Vancouver Students' Hackathon (June).
 
