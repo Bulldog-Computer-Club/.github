@@ -9,15 +9,14 @@ Our two biggest activities during the year will be the Canadian Computing Compet
 ## 2022-2023 Plan
 This is a work in progress, the schedule may change at any time.
 
-- (Sept - Dec) Python + Pratice CP Problems
-- (Jan - Feb) CCC Preperation
+- (Oct - Nov) Beaver Computing Competition
+- (Nov - Feb) CCC Preperation
 - (Feb - Mar) CCC Review
-- (Mar - May) VSHacks Preperation
+- (Mar - May) Project Work Time / AP CSA Help
+- (May - June) vsHacks
 
 ## Resources
-
 - [BCC Website](https://bulldog-computer-club.github.io/)
-- [Discord](https://discord.gg/t2CHsEXTWn)
 - [GitHub Student](https://education.github.com/pack)
 
 ## Affiliates
